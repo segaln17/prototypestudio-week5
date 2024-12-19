@@ -1,0 +1,34 @@
+{
+    "name": "ColliderControls",
+    "maps": [
+        {
+            "name": "ColliderGameplay",
+            "id": "c289eb4c-0923-4c49-97f3-a594855c7c1c",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "f8fe70c7-45ca-4952-9897-0d5d31b4b3f8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "228ad135-2620-4720-82a4-a11976b15b63",
+                    "path": "<Gamepad>/rightStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
